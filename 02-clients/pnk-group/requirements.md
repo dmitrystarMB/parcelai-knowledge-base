@@ -11,17 +11,42 @@ This document captures all specific requirements from PNK Group, including funct
 ## Business Requirements
 
 ### Key Business Objectives
-1. **[Objective 1]**
-   - **Description:** [What they want to achieve]
-   - **Success Metrics:** [How they measure success]
-   - **Timeline:** [When they need this]
-   - **Priority:** High/Medium/Low
 
-2. **[Objective 2]**
-   - **Description:** 
-   - **Success Metrics:** 
-   - **Timeline:** 
-   - **Priority:** 
+1. **Deploy $200M Capital Efficiently**
+   - **Description:** Successfully deploy $200M in capital for US land acquisition without broker intermediaries
+   - **Success Metrics:**
+     - Direct owner contact success rate: 90%
+     - Cost savings vs. broker-mediated deals
+     - Number of off-market deals secured
+   - **Timeline:** Ongoing (2025-2026)
+   - **Priority:** High
+
+2. **Find Land for Two Product Types**
+   - **Description:** Identify and qualify parcels suitable for logistics terminals/industrial parks AND AI data centers
+   - **Success Metrics:**
+     - Active pipeline of qualified parcels for both product types
+     - 70% automatic filtering of unsuitable parcels
+     - Minimum 50+ parcels processed through system
+   - **Timeline:** Ongoing
+   - **Priority:** High
+
+3. **Accelerate Land Acquisition Process**
+   - **Description:** Reduce time spent on parcel research and owner contact discovery
+   - **Success Metrics:**
+     - Parcel analysis: <15 minutes (from 2 hours)
+     - Owner contact search: <15 minutes (from 4 hours)
+     - 30+ hours/week time savings for team
+   - **Timeline:** Achieved with Modules 1-2, enhance with Modules 3-5
+   - **Priority:** High
+
+4. **Access Off-Market Opportunities**
+   - **Description:** Identify and secure parcels before they hit the open market
+   - **Success Metrics:**
+     - 25+ off-market opportunities per month
+     - 30-90 days ahead of competitors
+     - Access to affiliated owner parcels
+   - **Timeline:** Q1-Q3 2025 (Modules 4-5)
+   - **Priority:** High
 
 ### Business Constraints
 - **Budget:** [Any budget constraints]

@@ -10,27 +10,43 @@ Parcel AI transforms land acquisition from an opaque, time-consuming process int
 
 ## The Problem We're Solving
 
+### Core Problem
+
+Real estate developers and investors struggle to deploy large-scale capital efficiently for land acquisition in the US market. The land acquisition process is controlled by brokers who provide limited access to deals at inflated prices, creating significant barriers to finding and securing optimal parcels.
+
+**Specific Challenge:** Companies like PNK Group face difficulties deploying $200M in capital for land purchases in the USA due to broker market control, which provides limited access to deals at inflated prices.
+
 ### Current Challenges in Land Acquisition
 
-1. **Information Fragmentation**
+1. **Broker Market Control**
+   - Limited access to off-market opportunities
+   - Inflated pricing through broker intermediaries
+   - Reduced direct access to land owners
+   - Inability to move quickly on opportunities
+
+2. **Information Fragmentation**
    - Land data scattered across multiple sources and jurisdictions
    - No single source of truth for parcel information
    - Manual data collection is time-consuming and error-prone
+   - Analysis of a single parcel takes 2+ hours
 
-2. **Limited Market Intelligence**
+3. **Limited Market Intelligence**
    - Lack of real-time market trends and pricing data
-   - Difficulty identifying emerging opportunities
+   - Difficulty identifying emerging opportunities (off-market parcels)
    - No benchmarking tools for comparable acquisitions
+   - Missing market signals that indicate high-potential parcels
 
-3. **Complex Decision-Making**
+4. **Complex Decision-Making**
    - Multiple stakeholders with different information needs
    - Risk assessment requires extensive manual research
    - Competitive intelligence is difficult to gather
+   - No automated land qualification tools
 
-4. **Inefficient Processes**
+5. **Inefficient Processes**
    - Weeks or months spent on initial research
    - Redundant work across projects
    - No standardized workflow for acquisition teams
+   - Finding owner contact information takes 4+ hours per parcel
 
 ## Our Solution
 
@@ -45,25 +61,31 @@ Just as Bloomberg revolutionized financial markets by consolidating data and pro
 
 ### Core Value Propositions
 
-1. **Speed to Decision**
-   - Reduce research time from weeks to hours
-   - Quick access to comprehensive parcel information
-   - Instant market comparables and benchmarks
+ParcelAI is designed for searching, scoring, and qualifying industrial land parcels for developers and real estate investors, specifically targeting two key product types: logistics terminals/industrial parks and AI data centers.
 
-2. **Data-Driven Confidence**
+1. **Time Savings & Process Acceleration**
+   - Reduce parcel analysis time from 2 hours to 15 minutes
+   - Reduce owner contact search from 4 hours to 15 minutes
+   - Save 30+ hours of work time per week on owner research
+   - Quick access to comprehensive parcel information
+
+2. **Market Intelligence & Off-Market Access**
+   - Find market insights to identify undervalued (off-market) parcels
+   - Direct access to land owners, bypassing brokers
+   - Identify off-market opportunities 30-90 days ahead of competitors
+   - Access to hidden affiliated owner parcels
+
+3. **Comprehensive Scoring & Automated Assessment**
+   - Automated qualification and arbitrage potential assessment
+   - Filter out 70% of unsuitable parcels automatically
+   - Desktop audit without physical site visits
+   - Accuracy of preliminary assessment >70%
+
+4. **Data-Driven Confidence**
    - Make decisions based on comprehensive, verified data
    - Reduce risk through better information
    - Support decisions with robust analytics
-
-3. **Competitive Advantage**
-   - Identify opportunities before competitors
-   - Move faster on promising parcels
-   - Better negotiate with superior market intelligence
-
-4. **Operational Efficiency**
    - Standardize workflows across teams
-   - Reduce manual research efforts
-   - Scale acquisition operations effectively
 
 ## Target Impact
 

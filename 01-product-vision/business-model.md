@@ -142,17 +142,26 @@ Parcel AI operates on a **SaaS-based enterprise subscription model** with usage-
 **Timeline:** Months 1-12
 **Goal:** Prove value with anchor clients
 
+**Anchor Client: PNK Group**
+- **Profile:** Real estate development firm with $200M capital for US land acquisition
+- **Focus:** Two key product types - logistics terminals/industrial parks and AI data centers
+- **Challenge:** Deploying large capital efficiently due to broker market control
+- **Delivered Modules:** 5 specialized modules (2 launched, 3 in development)
+- **Success Metrics:** Time savings from 2 hours to 15 minutes per parcel analysis
+
 **Strategy:**
-- Focus on PNK Group success
-- Develop core platform features
-- Establish data quality and coverage
+- Focus on PNK Group success and satisfaction
+- Develop core platform features based on PNK requirements
+- Establish data quality and coverage for industrial land
 - Refine pricing and packaging
+- Use PNK Group as case study for market expansion
 
 **Metrics:**
 - 3-5 paying customers
 - $300K - $500K ARR
 - Product-market fit validation
 - Customer retention: 100%
+- PNK Group: 100% team adoption, 50+ parcels processed
 
 ### Phase 2: Market Development
 **Timeline:** Year 2

@@ -16,13 +16,18 @@
 ## Company Background
 
 ### About PNK Group
-[Add company description - business focus, size, market presence, notable projects]
+PNK Group is a real estate development firm focused on large-scale industrial land acquisition and development in the United States. The company is actively deploying $200 million in capital for land purchases, specifically targeting industrial properties including logistics terminals, industrial parks, and AI data centers.
 
 ### Business Model
-- **Primary Focus:** [e.g., Residential development, commercial properties, mixed-use]
-- **Geographic Markets:** [Markets where they operate]
-- **Annual Transaction Volume:** [If available]
-- **Development Portfolio:** [Notable projects or development types]
+- **Primary Focus:** Industrial real estate development (logistics terminals, industrial parks, AI data centers)
+- **Geographic Markets:** United States (nationwide land acquisition)
+- **Capital Deployment:** $200 million for land acquisition
+- **Development Portfolio:** Two key product types:
+  - Logistics terminals and industrial parks
+  - AI data centers and tech infrastructure
+
+### Key Challenge
+PNK Group experiences difficulties deploying their $200M capital efficiently due to broker market control, which provides limited access to deals at inflated prices. ParcelAI helps PNK bypass brokers and access off-market opportunities directly.
 
 ---
 
@@ -61,36 +66,50 @@
 
 ### Primary Use Cases
 
-1. **[Use Case 1 - e.g., Land Parcel Research]**
-   - **Description:** How PNK uses the platform for this use case
-   - **Frequency:** [Daily/Weekly/As needed]
-   - **Users:** [Which team members use this]
-   - **Value:** [Specific value delivered]
+1. **Project Management & Parcel Research**
+   - **Description:** Unified workspace for parcel analysis with integrated data sources (Nearmap, Regrid, wetlands, flood zones, carrier hotels, AI data centers)
+   - **Frequency:** Daily
+   - **Users:** Entire acquisition team
+   - **Value:** Parcel analysis reduced from 2 hours to 15 minutes
 
-2. **[Use Case 2 - e.g., Market Analysis]**
-   - **Description:** 
-   - **Frequency:** 
-   - **Users:** 
-   - **Value:** 
+2. **Owner Contact Discovery**
+   - **Description:** Automated search for land owner contact information to enable direct outreach bypassing brokers
+   - **Frequency:** For every target parcel (approx. 10 parcels/week)
+   - **Users:** Acquisition managers and analysts
+   - **Value:** Contact search reduced from 4 hours to 15 minutes per parcel
 
-3. **[Use Case 3]**
-   - **Description:** 
-   - **Frequency:** 
-   - **Users:** 
-   - **Value:** 
+3. **Land Qualification for Logistics & Data Centers**
+   - **Description:** Categorization and filtering of parcels specifically for logistics terminals vs. AI data centers
+   - **Frequency:** Continuous
+   - **Users:** Development team
+   - **Value:** Streamlined evaluation for two distinct product types
 
 ### Value Delivered
 
 #### Quantifiable Impact
-- **Time Savings:** [X hours per week/project]
-- **Efficiency Gains:** [Specific metrics]
-- **Deal Flow:** [Impact on number of opportunities evaluated]
-- **Decision Quality:** [How it improved decision-making]
+- **Time Savings:**
+  - Parcel analysis: 2 hours → 15 minutes (87% time reduction)
+  - Owner contact search: 4 hours → 15 minutes (94% time reduction)
+  - Weekly team savings: 30+ hours of work time
+  - Daily operational savings: 3-4 hours per team
+- **Efficiency Gains:**
+  - 100% of team using unified platform
+  - Minimum 50+ parcels processed through system
+  - All parcel data centralized in one location
+- **Deal Flow:**
+  - Direct access to land owners (bypassing brokers)
+  - Access to off-market opportunities
+  - Faster decision-making enables more deals evaluated
+- **Decision Quality:**
+  - Comprehensive data integration improves analysis
+  - Standardized workflow ensures consistency
+  - Team collaboration features improve coordination
 
 #### Qualitative Benefits
-- [Benefit 1]
-- [Benefit 2]
-- [Benefit 3]
+- Eliminates need to switch between multiple tools
+- Direct owner access bypasses broker markups
+- Better team coordination through shared workspace
+- Enhanced presentation capabilities for stakeholders
 
 ---
 
@@ -134,13 +153,15 @@
 
 ## Strategic Importance
 
-### Why PNK is Our Anchor Client
+### Why PNK Group is Our Anchor Client
 
-1. **Validation:** First enterprise customer validates product-market fit
-2. **Reference:** Strong reference for similar prospects
-3. **Feedback:** Close partnership drives product development
-4. **Case Study:** Success story demonstrates ROI
-5. **Revenue:** [Financial importance]
+1. **Validation:** First enterprise customer with $200M capital deployment validates product-market fit for high-value developers
+2. **Reference:** Strong reference for similar large-scale industrial developers
+3. **Feedback:** Close partnership drives product development - all 5 modules designed based on PNK requirements
+4. **Case Study:** Demonstrates dramatic ROI (87-94% time savings, 30+ hours/week saved)
+5. **Revenue:** Foundation customer for MVP phase, proving value of enterprise subscription model
+6. **Market Definition:** Defines our core market - industrial land acquisition for logistics and data centers
+7. **Product Roadmap:** PNK's needs directly shape our 5-module product development roadmap
 
 ### Expansion Opportunities
 
