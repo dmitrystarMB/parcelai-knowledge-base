@@ -1,0 +1,72 @@
+# Sensitive Information
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.yaml
+.env
+.env.local
+.env.production
+
+# Personal Information
+**/personal-notes/
+**/private/
+
+# Client Confidential Data
+*-confidential.*
+*-internal-only.*
+*-nda.*
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.history/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# Build and Dependencies
+node_modules/
+dist/
+build/
+.next/
+out/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Large Binary Files (use Git LFS if needed)
+*.mov
+*.mp4
+*.avi
+*.mkv
+
+# Backup Files
+*.backup
+*.bak
+*~
+
+# OS Generated
+.Spotlight-V100
+.Trashes
+ehthumbs.db
