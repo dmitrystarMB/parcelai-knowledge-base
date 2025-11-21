@@ -2,7 +2,13 @@
 
 ## Positioning Statement
 
-**For enterprise land acquisition teams who need comprehensive intelligence for decision-making, Parcel AI is the land intelligence platform that consolidates fragmented data and provides professional-grade analytics - unlike scattered databases and manual research, we offer the "Bloomberg Terminal for Land" experience with real-time market intelligence and powerful decision support tools.**
+**For enterprise land acquisition teams and real estate developers who need comprehensive intelligence for decision-making, Parcel AI is the land intelligence platform that consolidates fragmented data and provides professional-grade analytics - unlike scattered databases and manual research, we offer the "Bloomberg Terminal for Land" experience with real-time market intelligence and powerful decision support tools.**
+
+### Specific Use Cases
+
+ParcelAI specializes in finding and qualifying industrial land parcels for:
+- **Logistics terminals and industrial parks**
+- **AI data centers and tech infrastructure**
 
 ## Core Positioning
 
@@ -115,10 +121,13 @@ Not just property records - we integrate:
 
 ## Value Proposition by Segment
 
-### Enterprise Real Estate Developers
+### Enterprise Real Estate Developers (Primary Focus)
 **Core Message:** "Scale your land acquisition operations with enterprise-grade intelligence"
-- Emphasize: Efficiency, standardization, competitive advantage
-- ROI: Time savings, better deal flow, improved outcomes
+- **Target Profile:** Developers with $100M+ capital deployment for industrial properties
+- **Key Products:** Logistics terminals, industrial parks, AI data centers
+- Emphasize: Efficiency, standardization, competitive advantage, direct owner access
+- ROI: Time savings (2 hours → 15 minutes per parcel), better deal flow, 30+ hours/week saved
+- **Pain Point:** Difficulty deploying large capital due to broker market control
 
 ### Investment Firms
 **Core Message:** "Data-driven land investment decisions backed by comprehensive market intelligence"

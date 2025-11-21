@@ -2,178 +2,261 @@
 
 ## Overview
 
-This document catalogs all features currently available in the Parcel AI platform, organized by category and capability area.
+This document catalogs all features currently available in the Parcel AI platform, organized by module. ParcelAI delivers features through 5 specialized modules designed for industrial land acquisition.
 
-**Last Updated:** November 2024  
-**Product Version:** MVP/1.0
-
----
-
-## Feature Catalog
-
-### Core Search & Discovery
-
-#### Parcel Search
-**Status:** ✅ Available  
-**Description:** Search for parcels using various criteria including location, size, ownership, and characteristics
-
-**Capabilities:**
-- Text-based address search
-- APN/Parcel ID lookup
-- Geographic boundary search
-- Multi-criteria filtering
-- Saved search functionality
-
-**User Value:** Quick identification of relevant parcels
+**Last Updated:** 2025-01-21
+**Product Version:** MVP with Modules 1-2 Launched
+**Status:** Modules 1-2 in active use, Modules 3-5 planned
 
 ---
 
-#### Advanced Filtering
-**Status:** ✅ Available  
-**Description:** Filter parcels by multiple attributes simultaneously
+## Module Summary
 
-**Filters Include:**
-- Parcel size (acres/sq ft)
-- Zoning classifications
-- Ownership type
-- Price range
-- Last sale date
-- Development status
-
-**User Value:** Narrow results to most relevant opportunities
+| Module | Name | Status | Timeline |
+|--------|------|--------|----------|
+| 1 | Project Management | ✅ Launched & Active | Delivered in 2 months (planned 4) |
+| 2 | Owner Contact Search | ✅ Launched & Active | Delivered in 3 months (planned 3) |
+| 3 | Automatic Land Qualification | 🟡 Planned | 8 months (Q3 2025 target) |
+| 4 | Market Signals Monitoring | 🟡 Planned | 6 months (Q2 2025 target) |
+| 5 | Affiliated Owners Analysis | 🟡 Planned | 4 months (Q2 2025 target) |
 
 ---
 
-### Data & Intelligence
+## Module 1: Project Management (Launched)
 
-#### Parcel Details
-**Status:** ✅ Available  
-**Description:** Comprehensive parcel information and attributes
+**Goal:** Create unified workspace for development team, eliminating need to switch between multiple tools
 
-**Data Points:**
-- Property characteristics
-- Ownership information
-- Tax assessment data
-- Zoning and land use
-- Physical attributes
-- Historical records
+### Success Metrics Achieved
+- ✅ Reduced parcel analysis time from 2 hours to 15 minutes
+- ✅ 100% team adoption of platform
+- ✅ Minimum 50 parcels processed through system
 
-**User Value:** Complete parcel intelligence in one place
+### Value Delivered
+Team saves 3-4 hours per day on routine operations, all parcel data centralized in one location.
+
+### Features Delivered
+
+#### Data Integration
+**Status:** ✅ Implemented
+
+- **Nearmap Integration**
+  - Detailed aerial imagery from drones
+  - High-resolution parcel visualization
+  - Regular imagery updates
+
+- **Regrid Integration**
+  - Cadastral data and parcel boundaries
+  - Property ownership information
+  - Parcel characteristics
+
+- **Environmental Data**
+  - Wetlands data integration
+  - Flood zones mapping
+  - Environmental constraints visualization
+
+- **PNK Projects & Market Deals**
+  - Internal project data integration
+  - Market transaction data
+  - Historical deal tracking
+
+- **Infrastructure Data**
+  - Carrier Hotels locations
+  - AI data-centers mapping
+  - Critical infrastructure proximity
+
+#### Parcel Management
+**Status:** ✅ Implemented
+
+- **Advanced Filtering**
+  - Filter by area (acreage/square footage)
+  - Zoning classification filters
+  - Owner type and ownership filtering
+  - Custom multi-criteria filtering
+
+- **Parcel Categorization**
+  - Categorize by use type (logistics vs. data centers)
+  - Save and organize parcels by project
+  - Tag system for custom classifications
+
+#### Project Features
+**Status:** ✅ Implemented
+
+- **Project Creation & Management**
+  - Group related parcels into projects
+  - Project descriptions and documentation
+  - Project notes and tracking
+  - Project status management
+
+- **Presentation Tools**
+  - "Palette" functionality for stakeholder presentations
+  - Visual parcel organization
+  - Export presentation-ready views
+
+- **Map Markers**
+  - Create and edit markers on map
+  - Attach markers to parcels/projects
+  - Visual reference points for stakeholders
+
+#### Collaboration
+**Status:** ✅ Implemented
+
+- **Team Collaboration**
+  - Comments on parcels and projects
+  - Team notes sharing
+  - Deal status tracking
+  - Activity history
+
+- **Feedback System**
+  - Owner contact feedback form
+  - User experience feedback collection
+  - Feature request submission
+
+### Planned Enhancements
+**Status:** 🟡 Planned
+
+- **Fiberlocator Integration** - Connectivity assessment for data centers
+- **US Energy Atlas Integration** - Available power capacity analysis
 
 ---
 
-#### Transaction History
-**Status:** ✅ Available  
-**Description:** Historical sales and transfer records
+## Module 2: Owner Contact Search (Launched)
 
-**User Value:** Understand ownership patterns and pricing trends
+**Goal:** Automate contact information search for land owners to enable direct outreach bypassing brokers
 
----
+### Success Metrics Achieved
+- ✅ 90% success rate finding current owner contacts
+- ✅ Reduced contact search time from 4 hours to 15 minutes
 
-#### Market Comparables
-**Status:** ✅ Available  
-**Description:** Identify and analyze comparable parcels and transactions
+### Value Delivered
+Team saves 2-3 hours per deal on owner contact discovery. With 10 parcels/week, this frees up 30 hours of work time weekly.
 
-**User Value:** Price discovery and market validation
+### Features Delivered
 
----
+#### Automated Contact Discovery
+**Status:** ✅ Implemented
 
-### Analytics & Insights
+- **Individual Owner Search**
+  - Automatic contact lookup for individual/private owners
+  - Name verification and matching
+  - Current contact information retrieval
 
-#### Custom Dashboards
-**Status:** 🟡 Basic  
-**Description:** Customizable views of key metrics and data
+- **Corporate Owner Search**
+  - Company ownership identification
+  - Corporate contact discovery
+  - Key personnel identification
 
-**User Value:** At-a-glance view of important information
+#### Owner Profiles
+**Status:** ✅ Implemented
 
----
+- **Profile Creation**
+  - Comprehensive owner profiles
+  - Full contact information storage
+  - Ownership history
 
-#### Reports & Exports
-**Status:** ✅ Available  
-**Description:** Generate reports and export data
+- **Data Enrichment**
+  - Email address discovery
+  - Phone number verification
+  - LinkedIn profile matching
+  - Social media presence
 
-**Formats:**
-- PDF reports
-- Excel/CSV exports
-- Custom report templates
+### Planned Enhancements
+**Status:** 🟡 Planned
 
-**User Value:** Share insights with stakeholders
-
----
-
-### Collaboration
-
-#### Team Features
-**Status:** ✅ Available  
-**Description:** Collaborate with team members
-
-**Capabilities:**
-- Shared projects
-- Notes and comments
-- Activity tracking
-- User permissions
-
-**User Value:** Team coordination and knowledge sharing
+- **Communication Tracking** - Track outreach and responses with owners in-system
 
 ---
 
 ## Feature Maturity Matrix
 
-| Feature | Maturity | User Adoption | Satisfaction | Priority |
-|---------|----------|---------------|-------------|----------|
-| Parcel Search | Mature | High | High | Maintain |
-| Advanced Filtering | Growing | Medium | High | Enhance |
-| Parcel Details | Mature | High | High | Maintain |
-| Transaction History | Mature | High | Medium | Improve |
-| Comparables | Growing | Medium | High | Enhance |
-| Dashboards | Early | Low | Medium | Develop |
-| Reports | Growing | Medium | Medium | Improve |
-| Team Features | Early | Medium | Medium | Develop |
-
----
-
-## Features by User Persona
-
-### For Acquisition Managers
-- Parcel search and discovery
-- Market comparables
-- Transaction history
-- Custom reports
-
-### For Analysts
-- Advanced filtering
-- Detailed parcel data
-- Analytics and dashboards
-- Export capabilities
-
-### For Executives
-- Dashboards and summaries
-- High-level reports
-- Portfolio views
-- Market trends
+| Feature | Module | Maturity | User Adoption | Satisfaction | Priority |
+|---------|--------|----------|---------------|-------------|----------|
+| Parcel Search & Filtering | 1 | Mature | High | High | Maintain |
+| Data Integrations | 1 | Mature | High | High | Enhance |
+| Project Management | 1 | Mature | High | High | Maintain |
+| Team Collaboration | 1 | Growing | High | High | Maintain |
+| Presentation Tools | 1 | Mature | High | High | Maintain |
+| Owner Contact Search | 2 | Mature | High | High | Maintain |
+| Owner Profiles | 2 | Growing | High | Medium | Enhance |
 
 ---
 
 ## Platform Capabilities
 
 ### Performance
-- Sub-second search results
-- Real-time data updates
-- Concurrent user support
-- 99.9% uptime
+- Sub-second search results for parcel queries
+- Real-time data integration from multiple sources
+- Concurrent multi-user support
+- 99.9% uptime target
 
 ### Security
-- Data encryption
+- Data encryption at rest and in transit
 - Role-based access control
-- Audit logging
-- SSO integration
+- Audit logging for compliance
+- Secure data integrations
 
-### Integrations
-- REST API
-- Data exports
-- [Integration capabilities]
+### User Experience
+- Intuitive map-based interface
+- Advanced filtering and search
+- Export and presentation tools
+- Mobile-responsive design
 
 ---
 
-**Document Owner:** Product Management  
-**Related:** [Feature Requests](./feature-requests.md), [Roadmap](../05-product-roadmap/roadmap-2025.md)
+## Integration Points
+
+### Current Integrations
+| Integration | Type | Purpose | Status |
+|-------------|------|---------|--------|
+| Nearmap | Data API | Aerial imagery | ✅ Active |
+| Regrid | Data API | Cadastral data | ✅ Active |
+| Wetlands Data | Data Import | Environmental constraints | ✅ Active |
+| Flood Zones | Data Import | Risk assessment | ✅ Active |
+| Peopledatalab | API | Contact enrichment | ✅ Active |
+| Apollo | API | Contact discovery | ✅ Active |
+
+### Planned Integrations
+| Integration | Type | Purpose | Target |
+|-------------|------|---------|--------|
+| Fiberlocator | Data API | Fiber connectivity | Q1 2025 |
+| US Energy Atlas | Data API | Power capacity | Q1 2025 |
+| LandID | Data API | Encumbrances (Module 4) | Q2 2025 |
+
+---
+
+## Features by User Persona
+
+### For Acquisition Managers
+- **Primary Use:**
+  - Project management and parcel organization
+  - Owner contact discovery
+  - Team collaboration
+  - Stakeholder presentations
+
+### For Analysts
+- **Primary Use:**
+  - Advanced parcel filtering
+  - Detailed data analysis from integrated sources
+  - Market comparables (via integrated data)
+  - Export capabilities
+
+### For Executives
+- **Primary Use:**
+  - Project portfolio views
+  - High-level parcel categorization
+  - Presentation tools for investors
+  - Team activity overview
+
+---
+
+## Related Documents
+
+- [Feature Requests](./feature-requests.md) - Planned modules 3, 4, 5
+- [Feature Prioritization](./feature-prioritization.md)
+- [Product Roadmap](../05-product-roadmap/roadmap-2025.md)
+- [PNK Group Deliverables](../02-clients/pnk-group/deliverables.md)
+
+---
+
+**Document Owner:** Product Management
+**Last Updated:** 2025-01-21
+**Next Review:** Q1 2025
