@@ -586,9 +586,145 @@ Put together, the Index lets you **watch acquisition patterns** (who is land‑b
 
 ---
 
-## CUSTOMER VALIDATION (from demo call)
+## PNK QUESTIONS ANALYSIS (Detailed by Topic)
 
-### PNK Group profile:
+### Topic Area 1: Data Coverage & Accuracy
+
+**Q: "What exact companies are tracked in the Data Center Index?"**
+- **Acres answer:** Comprehensive list of tracked hyperscalers provided; full data dictionary available; transparency on which companies monitored
+- **What this reveals:** PNK wants to know specific coverage before committing; need confidence in data completeness
+- **Parcel AI capability:** ❌ Don't have - Module 5 (Market Signals) would address this
+- **Gap priority:** P0 🔴
+
+**Q: "How does coverage work in non-disclosure states like Pennsylvania?"**
+- **Acres answer:** "Data definitely richer in disclosure states but some coverage everywhere"; PA example shows only 2 transactions (Amazon 5/27/2025, Databank 2019) - acknowledged severe limitation
+- **What this reveals:** PNK's primary market (Pennsylvania) has limited transaction data - major concern
+- **Parcel AI capability:** ❌ Don't have non-disclosure state workaround
+- **Gap priority:** P1 🟡 (opportunity to solve better with ML/alternative data)
+
+**Q: "Can you track industrial warehouse transactions for our portfolio?"**
+- **Acres answer:** NOT currently tracked; willing to build custom datasets if client engages; would require additional investment
+- **What this reveals:** PNK has mixed-use portfolio (industrial + data centers); need multi-vertical tracking
+- **Parcel AI capability:** ⚠️ Partial - we focus on acquisition intelligence broadly, not transaction tracking
+- **Opportunity:** ⭐ Build multi-vertical from day one (advantage over Acres)
+
+---
+
+### Topic Area 2: Infrastructure Intelligence
+
+**Q: "Do you have power lines and transmission infrastructure?"**
+- **Acres answer:** "Definitely invaluable" - 94,000+ substations, filterable by voltage (230V+, 345V+), transmission lines with capacity/ownership data
+- **What this reveals:** Power infrastructure is **critical** for PNK's data center site selection
+- **Parcel AI capability:** 📋 Planned but not implemented
+- **Gap priority:** P0 🔴 (table stakes for data center intelligence)
+
+**Q: "What about fiber connectivity mapping?"**
+- **Acres answer:** Current + future fiber lines available; **market dependent** - some markets have more data than others; Ohio market shown as example
+- **What this reveals:** Fiber is "definitely invaluable" for PNK; critical for AI data center latency requirements
+- **Parcel AI capability:** ❌ Don't have
+- **Gap priority:** P0 🔴 (Acres admits market-dependent = opportunity to do better)
+
+**Q: "Can you show natural gas infrastructure?"**
+- **Acres answer:** Gas pipeline overlay available; important for many customers; can be combined with other layers
+- **What this reveals:** PNK evaluating multi-utility site requirements
+- **Parcel AI capability:** ❌ Don't have
+- **Gap priority:** P1 🟡
+
+---
+
+### Topic Area 3: LLC Unmasking & Competitive Intelligence
+
+**Q: "How does LLC unmasking work?"**
+- **Acres answer:** Tracks "few dozen" hyperscalers; monitors ALL LLCs/entities per company; maps hidden shell companies to parent corporations; real-time acquisition activity
+- **What this reveals:** PNK wants to track competitor land banking strategies and understand who's really buying
+- **Parcel AI capability:** 📋 Planned (Module 4 - Affiliated Owners) but not implemented
+- **Gap priority:** P0 🔴 (PNK explicitly asked about enterprise plan add-ons for this)
+
+**Q: "Can you show us where Meta/Amazon/hyperscalers are buying land?"**
+- **Acres answer:** Demonstrated Meta Q3 2024 Iowa transaction caught before public announcement; shows "stealth" vs "verified" buys; tracks 18-36 months before permits
+- **What this reveals:** Early warning system is **high value** for PNK to avoid competitor saturation
+- **Parcel AI capability:** ❌ Don't have
+- **Gap priority:** P0 🔴
+
+---
+
+### Topic Area 4: Due Diligence & Site Analysis
+
+**Q: "How do you handle zoning data?"**
+- **Acres answer:** Overlay zoning for any market; parcel-level codes; filter by type; **BUT** acknowledged: "Allowance for data center development stated really different from state to state... updates constantly, changing everything every month"
+- **What this reveals:** Zoning is PNK's **major current pain point**: "Go through every county, township, ordinance map to look and understand if it's really allowed"
+- **Parcel AI capability:** ⚠️ Basic zoning data
+- **Opportunity:** ⭐ **Automated zoning change monitoring** - Acres admitted weakness here
+
+**Q: "Can you help us pre-screen hundreds of parcels for due diligence?"**
+- **Acres answer:** Demonstrated workflow to filter from 94,000 substations → 10,000 (voltage filter) → 110 properties (acreage + geography); "disqualify land faster"
+- **What this reveals:** PNK has large pipeline and needs to reduce engineering costs by pre-screening
+- **Parcel AI capability:** ⚠️ Partial - we have filtering but not infrastructure-based
+- **Gap priority:** P0 🔴
+
+---
+
+### Topic Area 5: Workflow & Reports
+
+**Q: "How do you structure ongoing analysis for our pipeline?"**
+- **Acres answer:** Requested 3-5 specific addresses for detailed analysis; ~2 week consideration; second demo on client's parcels; "report structure development"
+- **What this reveals:** PNK needs **structured reporting workflow** for portfolio management
+- **Parcel AI capability:** ✅ We have project management (Module 1) - potential advantage
+- **Opportunity:** ⭐ Better workflow automation than Acres
+
+**Q: "What's the turnaround time for analysis?"**
+- **Acres answer:** Not explicitly stated; consultative process with ~2 week consideration period
+- **What this reveals:** PNK values speed - they mentioned owning contractors gives "time-to-market advantage"
+- **Parcel AI capability:** ✅ Real-time vs. Acres' 30-day update cadence
+- **Opportunity:** ⭐ **Speed advantage**
+
+---
+
+### Topic Area 6: Pricing & Business Model
+
+**Q: "What's included in enterprise plan vs. add-ons?"**
+- **Acres answer:** Enterprise platform (base) + Proprietary Data Sets (Data Center Index, Home Builder Index as add-ons) + Custom datasets (bespoke pricing)
+- **What this reveals:** PNK evaluating cost structure; strong interest in LLC unmasking add-on
+- **Parcel AI capability:** Simpler pricing model opportunity
+- **Opportunity:** ⭐ Self-serve + enterprise hybrid (vs. Acres enterprise-only)
+
+---
+
+### Questions Acres COULDN'T Answer Well
+
+1. **"How do you track industrial warehouse transactions?"**
+   - Their response: Not currently tracked, would need custom dataset
+   - **Opportunity for us:** Multi-vertical tracking from day one ⭐
+
+2. **"How accurate is zoning data with constant changes?"**
+   - Their response: Acknowledged "updates constantly, changing everything every month" - difficult to maintain
+   - **Opportunity for us:** AI-powered zoning change monitoring ⭐
+
+3. **"Can you provide real-time alerts?"**
+   - Their response: Not mentioned; appears to be manual checking with 30-day updates
+   - **Opportunity for us:** Real-time alerting system ⭐
+
+---
+
+### Questions Acres Answered STRONGLY (Concerning)
+
+1. **"Do you have power infrastructure data?"**
+   - Strong answer: 94,000+ substations, voltage filtering, transmission lines, retired power plants
+   - **Threat level:** 🔴 High - this is table stakes we must build
+
+2. **"Can you show hyperscaler land acquisitions?"**
+   - Strong answer: Entity unmasking, stealth buys, 18-36 month early detection
+   - **Threat level:** 🔴 Critical - core differentiator we must match
+
+3. **"What about sales comparables?"**
+   - Strong answer: Data center-specific comps, weekly curation, non-disclosure state research
+   - **Threat level:** 🔴 High - essential for underwriting
+
+---
+
+## CUSTOMER VALIDATION SUMMARY
+
+### PNK Group Profile:
 - Vertically integrated industrial company
 - Own 2 prefab factories producing buildings, windows
 - Transitioning from industrial/logistics into data center development
@@ -596,28 +732,44 @@ Put together, the Index lets you **watch acquisition patterns** (who is land‑b
 - Private capital - can acquire and build without external partners
 - Geographic focus: Pennsylvania (primary), Georgia, Florida (secondary)
 
-### Customer pain points expressed:
-1. **Information scarcity:** "Information is like gold here"
-2. **Manual research burden:** Currently using open-source data and broker relationships
-3. **Due diligence on hundreds of parcels:** Need to pre-screen large pipeline
-4. **Zoning complexity:** Must manually review "every county, township, ordinance map"
-5. **Non-disclosure states:** Pennsylvania has very limited pricing data
-6. **Competitive intelligence:** Want to know where competitors are buying
+### Top PNK Priorities (from question frequency & intensity):
 
-### Positive customer signals:
-- Dmitry: "Information is like gold here... you guys did a great job"
-- Dmitry: "Really impressive job... great great job"
-- Aleksei: "Really great stuff and some really useful data"
-- Dmitry: "Knowing how hard is getting this information... that's really good"
+1. **Power infrastructure intelligence** (🔴 Critical)
+   - Asked multiple times
+   - Called it "definitely invaluable"
+   - Voltage filtering essential
 
-### Specific interest areas:
-1. Power lines infrastructure - "definitely invaluable"
-2. Fiber lines mapping - "definitely invaluable"
-3. LLC unmasking capability - strong interest in enterprise plan add-ons
-4. Pre-due diligence for pipeline of "hundreds of parcels"
-5. Zoning intelligence (identified as major current pain point)
+2. **Fiber connectivity** (🔴 Critical)
+   - Called it "definitely invaluable"
+   - Critical for AI data center requirements
 
-### Next steps agreed:
+3. **LLC unmasking** (🔴 Critical)
+   - Explicit interest in enterprise add-ons
+   - Want to track competitors
+
+4. **Zoning intelligence** (🟡 High)
+   - Current major pain point
+   - Manual review of every county/township
+
+5. **Pre-due diligence at scale** (🟡 High)
+   - Need to screen "hundreds of parcels"
+   - Reduce engineering costs
+
+### Customer Sentiment:
+- **Dmitry:** "Information is like gold here... you guys did a great job"
+- **Dmitry:** "Really impressive job... great great job"
+- **Aleksei:** "Really great stuff and some really useful data"
+- **Dmitry:** "Knowing how hard is getting this information... that's really good"
+- **Overall:** Very positive, high buying intent
+
+### Unmet PNK Needs (Opportunities):
+1. **Real-time alerts** - not addressed by Acres
+2. **Industrial transaction tracking** - Acres doesn't have
+3. **Automated zoning monitoring** - Acres admitted difficulty
+4. **Multi-vertical intelligence** - Acres focused only on DC + homebuilders
+5. **Pennsylvania non-disclosure data** - Acres has severe limitation
+
+### Next Steps Agreed:
 - PNK to send 3-5 specific parcel addresses
 - Acres to prepare detailed analysis on those parcels
 - Follow-up call scheduled December 3rd
